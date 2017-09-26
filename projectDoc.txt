@@ -1,0 +1,1 @@
+This is a opencv based python project to observce the groth rate of duck weed plant
