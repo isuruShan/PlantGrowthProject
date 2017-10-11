@@ -1,0 +1,177 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>faf8a2c5-9a48-40e3-81e4-7520a92d6b89</ProjectGuid>
+    <ProjectHome>.</ProjectHome>
+    <ProjectTypeGuids>{789894c7-04a9-4a11-a6b5-3f4435165112};{1b580a1a-fdb3-4b32-83e1-6407eb2722e6};{349c5851-65df-11da-9384-00065b846f21};{888888a0-9f3d-457c-b088-3a5042f75d52}</ProjectTypeGuids>
+    <StartupFile>runserver.py</StartupFile>
+    <SearchPath>
+    </SearchPath>
+    <WorkingDirectory>.</WorkingDirectory>
+    <LaunchProvider>Web launcher</LaunchProvider>
+    <OutputPath>.</OutputPath>
+    <StaticUriPattern>^/static/.*</StaticUriPattern>
+    <StaticUriRewrite>^/$(MSBuildProjectName)/static/.*</StaticUriRewrite>
+    <PythonWsgiHandler>$(MSBuildProjectName).app</PythonWsgiHandler>
+    <Name>PlantGrowthProject</Name>
+    <RootNamespace>PlantGrowthProject</RootNamespace>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
+    <DebugSymbols>true</DebugSymbols>
+    <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
+    <DebugSymbols>true</DebugSymbols>
+    <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="runserver.py" />
+    <Compile Include="PlantGrowthProject\__init__.py" />
+    <Compile Include="PlantGrowthProject\views.py" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="PlantGrowthProject\" />
+    <Folder Include="PlantGrowthProject\static\" />
+    <Folder Include="PlantGrowthProject\static\content\" />
+    <Folder Include="PlantGrowthProject\static\fonts\" />
+    <Folder Include="PlantGrowthProject\static\images\" />
+    <Folder Include="PlantGrowthProject\static\images\faces\" />
+    <Folder Include="PlantGrowthProject\static\sass\" />
+    <Folder Include="PlantGrowthProject\static\sass\md\" />
+    <Folder Include="PlantGrowthProject\static\sass\md\mixins\" />
+    <Folder Include="PlantGrowthProject\static\sass\md\plugins\" />
+    <Folder Include="PlantGrowthProject\static\scripts\" />
+    <Folder Include="PlantGrowthProject\templates\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="PlantGrowthProject\static\content\demo.css" />
+    <Content Include="PlantGrowthProject\static\content\Login.css" />
+    <Content Include="PlantGrowthProject\static\content\material-dashboard.css" />
+    <Content Include="PlantGrowthProject\static\images\apple-icon.png" />
+    <Content Include="PlantGrowthProject\static\images\cover.jpeg" />
+    <Content Include="PlantGrowthProject\static\images\faces\marc.jpg" />
+    <Content Include="PlantGrowthProject\static\images\favicon.png" />
+    <Content Include="PlantGrowthProject\static\images\mask.png" />
+    <Content Include="PlantGrowthProject\static\images\new_logo.png" />
+    <Content Include="PlantGrowthProject\static\images\sidebar-1.jpg" />
+    <Content Include="PlantGrowthProject\static\images\sidebar-2.jpg" />
+    <Content Include="PlantGrowthProject\static\images\sidebar-3.jpg" />
+    <Content Include="PlantGrowthProject\static\images\sidebar-4.jpg" />
+    <Content Include="PlantGrowthProject\static\images\tim_80x80.png" />
+    <Content Include="PlantGrowthProject\static\sass\material-dashboard.scss" />
+    <Content Include="PlantGrowthProject\static\sass\md\mixins\_chartist.scss" />
+    <Content Include="PlantGrowthProject\static\sass\md\mixins\_transparency.scss" />
+    <Content Include="PlantGrowthProject\static\sass\md\mixins\_vendor-prefixes.scss" />
+    <Content Include="PlantGrowthProject\static\sass\md\plugins\_animate.scss" />
+    <Content Include="PlantGrowthProject\static\sass\md\plugins\_perfect-scrollbar.scss" />
+    <Content Include="PlantGrowthProject\static\sass\md\plugins\_plugin-nouislider.scss" />
+    <Content Include="PlantGrowthProject\static\sass\md\_alerts.scss" />
+    <Content Include="PlantGrowthProject\static\sass\md\_buttons.scss" />
+    <Content Include="PlantGrowthProject\static\sass\md\_cards.scss" />
+    <Content Include="PlantGrowthProject\static\sass\md\_chartist.scss" />
+    <Content Include="PlantGrowthProject\static\sass\md\_checkboxes.scss" />
+    <Content Include="PlantGrowthProject\static\sass\md\_colors.scss" />
+    <Content Include="PlantGrowthProject\static\sass\md\_dialogs.scss" />
+    <Content Include="PlantGrowthProject\static\sass\md\_dropdown.scss" />
+    <Content Include="PlantGrowthProject\static\sass\md\_footers.scss" />
+    <Content Include="PlantGrowthProject\static\sass\md\_forms.scss" />
+    <Content Include="PlantGrowthProject\static\sass\md\_inputs-size.scss" />
+    <Content Include="PlantGrowthProject\static\sass\md\_inputs.scss" />
+    <Content Include="PlantGrowthProject\static\sass\md\_misc.scss" />
+    <Content Include="PlantGrowthProject\static\sass\md\_mixins.scss" />
+    <Content Include="PlantGrowthProject\static\sass\md\_navbars.scss" />
+    <Content Include="PlantGrowthProject\static\sass\md\_pagination.scss" />
+    <Content Include="PlantGrowthProject\static\sass\md\_pills.scss" />
+    <Content Include="PlantGrowthProject\static\sass\md\_popups.scss" />
+    <Content Include="PlantGrowthProject\static\sass\md\_radios.scss" />
+    <Content Include="PlantGrowthProject\static\sass\md\_responsive.scss" />
+    <Content Include="PlantGrowthProject\static\sass\md\_ripples.scss" />
+    <Content Include="PlantGrowthProject\static\sass\md\_shadows.scss" />
+    <Content Include="PlantGrowthProject\static\sass\md\_sidebar-and-main-panel.scss" />
+    <Content Include="PlantGrowthProject\static\sass\md\_tables.scss" />
+    <Content Include="PlantGrowthProject\static\sass\md\_tabs.scss" />
+    <Content Include="PlantGrowthProject\static\sass\md\_togglebutton.scss" />
+    <Content Include="PlantGrowthProject\static\sass\md\_typography.scss" />
+    <Content Include="PlantGrowthProject\static\sass\md\_variables.scss" />
+    <Content Include="PlantGrowthProject\static\scripts\arrive.min.js" />
+    <Content Include="PlantGrowthProject\static\scripts\bootstrap-notify.js" />
+    <Content Include="PlantGrowthProject\static\scripts\chartist.min.js" />
+    <Content Include="PlantGrowthProject\static\scripts\demo.js" />
+    <Content Include="PlantGrowthProject\static\scripts\jquery-3.2.1.min.js" />
+    <Content Include="PlantGrowthProject\static\scripts\Login.js" />
+    <Content Include="PlantGrowthProject\static\scripts\material-dashboard.js" />
+    <Content Include="PlantGrowthProject\static\scripts\material.min.js" />
+    <Content Include="PlantGrowthProject\static\scripts\perfect-scrollbar.jquery.min.js" />
+    <Content Include="PlantGrowthProject\templates\Test.html" />
+    <Content Include="requirements.txt" />
+    <Content Include="PlantGrowthProject\static\content\bootstrap.css" />
+    <Content Include="PlantGrowthProject\static\content\bootstrap.min.css" />
+    <Content Include="PlantGrowthProject\static\content\site.css" />
+    <Content Include="PlantGrowthProject\static\fonts\glyphicons-halflings-regular.eot" />
+    <Content Include="PlantGrowthProject\static\fonts\glyphicons-halflings-regular.svg" />
+    <Content Include="PlantGrowthProject\static\fonts\glyphicons-halflings-regular.ttf" />
+    <Content Include="PlantGrowthProject\static\fonts\glyphicons-halflings-regular.woff" />
+    <Content Include="PlantGrowthProject\static\scripts\bootstrap.js" />
+    <Content Include="PlantGrowthProject\static\scripts\bootstrap.min.js" />
+    <Content Include="PlantGrowthProject\static\scripts\jquery-1.10.2.intellisense.js" />
+    <Content Include="PlantGrowthProject\static\scripts\jquery-1.10.2.js" />
+    <Content Include="PlantGrowthProject\static\scripts\jquery-1.10.2.min.js" />
+    <Content Include="PlantGrowthProject\static\scripts\jquery-1.10.2.min.map" />
+    <Content Include="PlantGrowthProject\static\scripts\jquery.validate-vsdoc.js" />
+    <Content Include="PlantGrowthProject\static\scripts\jquery.validate.js" />
+    <Content Include="PlantGrowthProject\static\scripts\jquery.validate.min.js" />
+    <Content Include="PlantGrowthProject\static\scripts\jquery.validate.unobtrusive.js" />
+    <Content Include="PlantGrowthProject\static\scripts\jquery.validate.unobtrusive.min.js" />
+    <Content Include="PlantGrowthProject\static\scripts\modernizr-2.6.2.js" />
+    <Content Include="PlantGrowthProject\static\scripts\respond.js" />
+    <Content Include="PlantGrowthProject\static\scripts\respond.min.js" />
+    <Content Include="PlantGrowthProject\static\scripts\_references.js" />
+    <Content Include="PlantGrowthProject\templates\about.html" />
+    <Content Include="PlantGrowthProject\templates\contact.html" />
+    <Content Include="PlantGrowthProject\templates\index.html" />
+    <Content Include="PlantGrowthProject\templates\layout.html" />
+  </ItemGroup>
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.Web.targets" />
+  <!-- Specify pre- and post-build commands in the BeforeBuild and 
+       AfterBuild targets below. -->
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <AutoAssignPort>True</AutoAssignPort>
+          <UseCustomServer>True</UseCustomServer>
+          <CustomServerUrl>http://localhost</CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}" User="">
+        <WebProjectProperties>
+          <StartPageUrl>
+          </StartPageUrl>
+          <StartAction>CurrentPage</StartAction>
+          <AspNetDebugging>True</AspNetDebugging>
+          <SilverlightDebugging>False</SilverlightDebugging>
+          <NativeDebugging>False</NativeDebugging>
+          <SQLDebugging>False</SQLDebugging>
+          <ExternalProgram>
+          </ExternalProgram>
+          <StartExternalURL>
+          </StartExternalURL>
+          <StartCmdLineArguments>
+          </StartCmdLineArguments>
+          <StartWorkingDirectory>
+          </StartWorkingDirectory>
+          <EnableENC>False</EnableENC>
+          <AlwaysStartWebServerOnDebug>False</AlwaysStartWebServerOnDebug>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+</Project>

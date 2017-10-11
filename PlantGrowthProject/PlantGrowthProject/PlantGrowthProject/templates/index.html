@@ -1,0 +1,35 @@
+{% extends "Test.html" %}
+{% block content %}
+<!DOCTYPE HTML>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Login</title>
+    <link href="../static/content/Login.css" rel="stylesheet" />
+    <link href="../static/content/bootstrap.min.css" rel="stylesheet" />
+
+</head>
+<body>
+    <div class="login-page">
+        <div class="form">
+            <form class="register-form">
+                <input type="text" placeholder="name" />
+                <input type="password" placeholder="password" />
+                <input type="text" placeholder="email address" />
+                <button>create</button>
+                <p class="message">Already registered? <a href="#">Sign In</a></p>
+            </form>
+            <form class="login-form">
+                <input type="text" placeholder="username" />
+                <input type="password" placeholder="password" />
+                <a href="{{ url_for('about') }}" class="btn btn-success" role="button">LOGIN</a>
+                <p class="message">Not registered? <a href="#">Create an account</a></p>
+            </form>
+        </div>
+    </div>
+    <script src="../static/scripts/Login.js"></script>
+
+</body>
+</html>
+
+    {% endblock %}
