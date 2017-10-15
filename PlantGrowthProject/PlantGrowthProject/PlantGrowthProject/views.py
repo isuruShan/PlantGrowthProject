@@ -4,7 +4,8 @@ Routes and views for the flask application.
 
 from datetime import datetime
 from flask import render_template
-from PlantGrowthProject import app
+from PlantGrowthProject import app, ProcessImg
+#from PlantGrowthProject.ProcessImg import Compromise
 
 @app.route('/')
 @app.route('/home')
@@ -17,6 +18,7 @@ def home():
     )
 
 @app.route('/contact')
+#Compromise
 def contact():
     """Renders the contact page."""
     return render_template(
@@ -24,7 +26,11 @@ def contact():
         title='Contact',
         year=datetime.now().year,
         message='Your contact page.'
+        
+        #execfile('ProcessImg.py')
+        #os.system("python ProcessImg.py")
     )
+    
 
 @app.route('/about')
 def about():
