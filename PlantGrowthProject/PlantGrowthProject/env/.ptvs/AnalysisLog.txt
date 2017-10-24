@@ -1,0 +1,770 @@
+﻿
+2017-10-11T12:20:11: Start analysis
+2017-10-11T12:20:11: [WARNING] Library was set explicitly - skipping path detection
+2017-10-11T12:20:11: IncludeModulesFromModulePath = win32com
+2017-10-11T12:20:11: Deleting 0 files
+2017-10-11T12:20:11: Scraping builtin modules
+2017-10-11T12:20:11: Command: "D:\projects\plant growth rate\PlantGrowthProject\PlantGrowthProject\PlantGrowthProject\env\Scripts\python.exe" "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\PythonScraper.py" "D:\projects\plant growth rate\PlantGrowthProject\PlantGrowthProject\PlantGrowthProject\env\.ptvs\\" "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\\"
+2017-10-11T12:20:12: Output
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_codecs.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_collections.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_functools.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_heapq.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_io.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_locale.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_md5.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_random.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_sha256.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_sha512.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_sre.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_struct.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_warnings.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_weakref.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\array.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\binascii.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\cmath.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\errno.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\gc.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\itertools.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\marshal.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\math.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\mmap.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\msvcrt.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\nt.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\sys.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\time.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\xxsubtype.idb
+2017-10-11T12:20:12: Scraped builtin modules
+2017-10-11T12:20:12: Scraping markupsafe._speedups
+2017-10-11T12:20:12: Command: "D:\projects\plant growth rate\PlantGrowthProject\PlantGrowthProject\PlantGrowthProject\env\Scripts\python.exe" "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\ExtensionScraper.py" scrape markupsafe._speedups "D:\projects\plant growth rate\PlantGrowthProject\PlantGrowthProject\PlantGrowthProject\env\Lib\site-packages" "D:\projects\plant growth rate\PlantGrowthProject\PlantGrowthProject\PlantGrowthProject\env\.ptvs\markupsafe\markupsafe._speedups"
+2017-10-11T12:20:12: Scraped 1 files
+2017-10-11T12:20:12: astropy.CallDepth = 0
+2017-10-11T12:20:12: matplotlib.CallDepth = 3
+2017-10-11T12:20:12: pandas.CallDepth = 0
+2017-10-11T12:20:12: sympy.CallDepth = 0
+2017-10-11T12:20:12: Start group "D:\projects\plant growth rate\PlantGrowthProject\PlantGrowthProject\PlantGrowthProject\env\Lib\site-packages" with 2 files
+2017-10-11T12:20:12: [ERROR] Analysis failed
+System.IO.DirectoryNotFoundException: Could not find a part of the path 'C:\Users\User\AppData\Local\Python Tools\CompletionDB\14.0\94056900-1195-4796-87f0-13a608f4d60b\3.5'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.Directory.GetFiles(String path)
+   at Microsoft.PythonTools.Interpreter.SharedDatabaseState.LoadDatabase(String databaseDirectory)
+   at Microsoft.PythonTools.Interpreter.PythonTypeDatabase..ctor(PythonInterpreterFactoryWithDatabase factory, IEnumerable`1 databaseDirectories, PythonTypeDatabase innerDatabase)
+   at Microsoft.PythonTools.Interpreter.Default.AnalysisOnlyInterpreterFactory.MakeTypeDatabase(String databasePath, Boolean includeSitePackages)
+   at Microsoft.PythonTools.Interpreter.PythonInterpreterFactoryWithDatabase.GetCurrentDatabase()
+   at Microsoft.PythonTools.Interpreter.Default.CPythonInterpreter..ctor(PythonInterpreterFactoryWithDatabase factory)
+   at Microsoft.PythonTools.Interpreter.PythonInterpreterFactoryWithDatabase.MakeInterpreter(PythonInterpreterFactoryWithDatabase factory)
+   at Microsoft.PythonTools.Interpreter.PythonInterpreterFactoryWithDatabase.CreateInterpreter()
+   at Microsoft.PythonTools.Analysis.PythonAnalyzer..ctor(IPythonInterpreterFactory factory, IPythonInterpreter pythonInterpreter, String builtinName)
+   at Microsoft.PythonTools.Analysis.PythonAnalyzer.<CreateAsync>d__53.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.VisualStudioTools.TaskExtensions.WaitAndUnwrapExceptions[T](Task`1 task)
+   at Microsoft.PythonTools.Analysis.PyLibAnalyzer.Analyze()
+   at Microsoft.PythonTools.Analysis.PyLibAnalyzer.<RunWorker>d__31.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.PythonTools.Analysis.PyLibAnalyzer.<Run>d__30.MoveNext()
+
+2017-10-11T12:21:33: Start analysis
+2017-10-11T12:21:33: [WARNING] Library was set explicitly - skipping path detection
+2017-10-11T12:21:33: IncludeModulesFromModulePath = win32com
+2017-10-11T12:21:33: Deleting 64 files
+2017-10-11T12:21:33: Scraping builtin modules
+2017-10-11T12:21:33: Command: "D:\projects\plant growth rate\PlantGrowthProject\PlantGrowthProject\PlantGrowthProject\env\Scripts\python.exe" "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\PythonScraper.py" "D:\projects\plant growth rate\PlantGrowthProject\PlantGrowthProject\PlantGrowthProject\env\.ptvs\\" "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\\"
+2017-10-11T12:21:34: Output
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_codecs.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_collections.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_functools.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_heapq.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_io.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_locale.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_md5.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_random.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_sha256.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_sha512.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_sre.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_struct.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_warnings.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_weakref.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\array.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\binascii.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\cmath.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\errno.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\gc.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\itertools.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\marshal.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\math.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\mmap.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\msvcrt.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\nt.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\sys.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\time.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\xxsubtype.idb
+2017-10-11T12:21:34: Scraped builtin modules
+2017-10-11T12:21:34: Scraping markupsafe._speedups
+2017-10-11T12:21:34: Command: "D:\projects\plant growth rate\PlantGrowthProject\PlantGrowthProject\PlantGrowthProject\env\Scripts\python.exe" "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\ExtensionScraper.py" scrape markupsafe._speedups "D:\projects\plant growth rate\PlantGrowthProject\PlantGrowthProject\PlantGrowthProject\env\Lib\site-packages" "D:\projects\plant growth rate\PlantGrowthProject\PlantGrowthProject\PlantGrowthProject\env\.ptvs\markupsafe\markupsafe._speedups"
+2017-10-11T12:21:34: Scraped 1 files
+2017-10-11T12:21:34: astropy.CallDepth = 0
+2017-10-11T12:21:34: matplotlib.CallDepth = 3
+2017-10-11T12:21:34: pandas.CallDepth = 0
+2017-10-11T12:21:34: sympy.CallDepth = 0
+2017-10-11T12:21:34: Start group "D:\projects\plant growth rate\PlantGrowthProject\PlantGrowthProject\PlantGrowthProject\env\Lib\site-packages" with 2 files
+2017-10-11T12:21:34: [ERROR] Analysis failed
+System.IO.DirectoryNotFoundException: Could not find a part of the path 'C:\Users\User\AppData\Local\Python Tools\CompletionDB\14.0\94056900-1195-4796-87f0-13a608f4d60b\3.5'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.Directory.GetFiles(String path)
+   at Microsoft.PythonTools.Interpreter.SharedDatabaseState.LoadDatabase(String databaseDirectory)
+   at Microsoft.PythonTools.Interpreter.PythonTypeDatabase..ctor(PythonInterpreterFactoryWithDatabase factory, IEnumerable`1 databaseDirectories, PythonTypeDatabase innerDatabase)
+   at Microsoft.PythonTools.Interpreter.Default.AnalysisOnlyInterpreterFactory.MakeTypeDatabase(String databasePath, Boolean includeSitePackages)
+   at Microsoft.PythonTools.Interpreter.PythonInterpreterFactoryWithDatabase.GetCurrentDatabase()
+   at Microsoft.PythonTools.Interpreter.Default.CPythonInterpreter..ctor(PythonInterpreterFactoryWithDatabase factory)
+   at Microsoft.PythonTools.Interpreter.PythonInterpreterFactoryWithDatabase.MakeInterpreter(PythonInterpreterFactoryWithDatabase factory)
+   at Microsoft.PythonTools.Interpreter.PythonInterpreterFactoryWithDatabase.CreateInterpreter()
+   at Microsoft.PythonTools.Analysis.PythonAnalyzer..ctor(IPythonInterpreterFactory factory, IPythonInterpreter pythonInterpreter, String builtinName)
+   at Microsoft.PythonTools.Analysis.PythonAnalyzer.<CreateAsync>d__53.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.VisualStudioTools.TaskExtensions.WaitAndUnwrapExceptions[T](Task`1 task)
+   at Microsoft.PythonTools.Analysis.PyLibAnalyzer.Analyze()
+   at Microsoft.PythonTools.Analysis.PyLibAnalyzer.<RunWorker>d__31.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.PythonTools.Analysis.PyLibAnalyzer.<Run>d__30.MoveNext()
+
+2017-10-11T12:42:05: Start analysis
+2017-10-11T12:42:05: [WARNING] Library was set explicitly - skipping path detection
+2017-10-11T12:42:05: IncludeModulesFromModulePath = win32com
+2017-10-11T12:42:06: Deleting 64 files
+2017-10-11T12:42:06: Scraping builtin modules
+2017-10-11T12:42:06: Command: "D:\projects\plant growth rate\PlantGrowthProject\PlantGrowthProject\PlantGrowthProject\env\Scripts\python.exe" "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\PythonScraper.py" "D:\projects\plant growth rate\PlantGrowthProject\PlantGrowthProject\PlantGrowthProject\env\.ptvs\\" "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\\"
+2017-10-11T12:42:07: Output
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_codecs.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_collections.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_functools.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_heapq.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_io.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_locale.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_md5.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_random.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_sha256.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_sha512.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_sre.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_struct.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_warnings.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_weakref.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\array.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\binascii.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\cmath.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\errno.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\gc.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\itertools.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\marshal.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\math.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\mmap.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\msvcrt.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\nt.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\sys.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\time.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\xxsubtype.idb
+2017-10-11T12:42:07: Scraped builtin modules
+2017-10-11T12:42:07: Scraping markupsafe._speedups
+2017-10-11T12:42:07: Command: "D:\projects\plant growth rate\PlantGrowthProject\PlantGrowthProject\PlantGrowthProject\env\Scripts\python.exe" "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\ExtensionScraper.py" scrape markupsafe._speedups "D:\projects\plant growth rate\PlantGrowthProject\PlantGrowthProject\PlantGrowthProject\env\Lib\site-packages" "D:\projects\plant growth rate\PlantGrowthProject\PlantGrowthProject\PlantGrowthProject\env\.ptvs\markupsafe\markupsafe._speedups"
+2017-10-11T12:42:07: Scraped 1 files
+2017-10-11T12:42:07: astropy.CallDepth = 0
+2017-10-11T12:42:07: matplotlib.CallDepth = 3
+2017-10-11T12:42:07: pandas.CallDepth = 0
+2017-10-11T12:42:07: sympy.CallDepth = 0
+2017-10-11T12:42:07: Start group "D:\projects\plant growth rate\PlantGrowthProject\PlantGrowthProject\PlantGrowthProject\env\Lib\site-packages" with 2 files
+2017-10-11T12:42:07: [ERROR] Analysis failed
+System.IO.DirectoryNotFoundException: Could not find a part of the path 'C:\Users\User\AppData\Local\Python Tools\CompletionDB\14.0\94056900-1195-4796-87f0-13a608f4d60b\3.5'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.Directory.GetFiles(String path)
+   at Microsoft.PythonTools.Interpreter.SharedDatabaseState.LoadDatabase(String databaseDirectory)
+   at Microsoft.PythonTools.Interpreter.PythonTypeDatabase..ctor(PythonInterpreterFactoryWithDatabase factory, IEnumerable`1 databaseDirectories, PythonTypeDatabase innerDatabase)
+   at Microsoft.PythonTools.Interpreter.Default.AnalysisOnlyInterpreterFactory.MakeTypeDatabase(String databasePath, Boolean includeSitePackages)
+   at Microsoft.PythonTools.Interpreter.PythonInterpreterFactoryWithDatabase.GetCurrentDatabase()
+   at Microsoft.PythonTools.Interpreter.Default.CPythonInterpreter..ctor(PythonInterpreterFactoryWithDatabase factory)
+   at Microsoft.PythonTools.Interpreter.PythonInterpreterFactoryWithDatabase.MakeInterpreter(PythonInterpreterFactoryWithDatabase factory)
+   at Microsoft.PythonTools.Interpreter.PythonInterpreterFactoryWithDatabase.CreateInterpreter()
+   at Microsoft.PythonTools.Analysis.PythonAnalyzer..ctor(IPythonInterpreterFactory factory, IPythonInterpreter pythonInterpreter, String builtinName)
+   at Microsoft.PythonTools.Analysis.PythonAnalyzer.<CreateAsync>d__53.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.VisualStudioTools.TaskExtensions.WaitAndUnwrapExceptions[T](Task`1 task)
+   at Microsoft.PythonTools.Analysis.PyLibAnalyzer.Analyze()
+   at Microsoft.PythonTools.Analysis.PyLibAnalyzer.<RunWorker>d__31.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.PythonTools.Analysis.PyLibAnalyzer.<Run>d__30.MoveNext()
+
+2017-10-11T12:43:41: Start analysis
+2017-10-11T12:43:41: [WARNING] Library was set explicitly - skipping path detection
+2017-10-11T12:43:41: IncludeModulesFromModulePath = win32com
+2017-10-11T12:43:42: Deleting 64 files
+2017-10-11T12:43:42: Scraping builtin modules
+2017-10-11T12:43:42: Command: "D:\projects\plant growth rate\PlantGrowthProject\PlantGrowthProject\PlantGrowthProject\env\Scripts\python.exe" "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\PythonScraper.py" "D:\projects\plant growth rate\PlantGrowthProject\PlantGrowthProject\PlantGrowthProject\env\.ptvs\\" "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\\"
+2017-10-11T12:43:43: Output
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_codecs.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_collections.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_functools.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_heapq.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_io.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_locale.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_md5.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_random.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_sha256.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_sha512.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_sre.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_struct.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_warnings.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_weakref.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\array.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\binascii.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\cmath.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\errno.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\gc.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\itertools.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\marshal.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\math.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\mmap.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\msvcrt.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\nt.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\sys.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\time.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\xxsubtype.idb
+2017-10-11T12:43:43: Scraped builtin modules
+2017-10-11T12:43:43: Scraping markupsafe._speedups
+2017-10-11T12:43:43: Command: "D:\projects\plant growth rate\PlantGrowthProject\PlantGrowthProject\PlantGrowthProject\env\Scripts\python.exe" "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\ExtensionScraper.py" scrape markupsafe._speedups "D:\projects\plant growth rate\PlantGrowthProject\PlantGrowthProject\PlantGrowthProject\env\Lib\site-packages" "D:\projects\plant growth rate\PlantGrowthProject\PlantGrowthProject\PlantGrowthProject\env\.ptvs\markupsafe\markupsafe._speedups"
+2017-10-11T12:43:43: Scraped 1 files
+2017-10-11T12:43:43: astropy.CallDepth = 0
+2017-10-11T12:43:43: matplotlib.CallDepth = 3
+2017-10-11T12:43:43: pandas.CallDepth = 0
+2017-10-11T12:43:43: sympy.CallDepth = 0
+2017-10-11T12:43:43: Start group "D:\projects\plant growth rate\PlantGrowthProject\PlantGrowthProject\PlantGrowthProject\env\Lib\site-packages" with 2 files
+2017-10-11T12:43:43: [ERROR] Analysis failed
+System.IO.DirectoryNotFoundException: Could not find a part of the path 'C:\Users\User\AppData\Local\Python Tools\CompletionDB\14.0\94056900-1195-4796-87f0-13a608f4d60b\3.5'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.Directory.GetFiles(String path)
+   at Microsoft.PythonTools.Interpreter.SharedDatabaseState.LoadDatabase(String databaseDirectory)
+   at Microsoft.PythonTools.Interpreter.PythonTypeDatabase..ctor(PythonInterpreterFactoryWithDatabase factory, IEnumerable`1 databaseDirectories, PythonTypeDatabase innerDatabase)
+   at Microsoft.PythonTools.Interpreter.Default.AnalysisOnlyInterpreterFactory.MakeTypeDatabase(String databasePath, Boolean includeSitePackages)
+   at Microsoft.PythonTools.Interpreter.PythonInterpreterFactoryWithDatabase.GetCurrentDatabase()
+   at Microsoft.PythonTools.Interpreter.Default.CPythonInterpreter..ctor(PythonInterpreterFactoryWithDatabase factory)
+   at Microsoft.PythonTools.Interpreter.PythonInterpreterFactoryWithDatabase.MakeInterpreter(PythonInterpreterFactoryWithDatabase factory)
+   at Microsoft.PythonTools.Interpreter.PythonInterpreterFactoryWithDatabase.CreateInterpreter()
+   at Microsoft.PythonTools.Analysis.PythonAnalyzer..ctor(IPythonInterpreterFactory factory, IPythonInterpreter pythonInterpreter, String builtinName)
+   at Microsoft.PythonTools.Analysis.PythonAnalyzer.<CreateAsync>d__53.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.VisualStudioTools.TaskExtensions.WaitAndUnwrapExceptions[T](Task`1 task)
+   at Microsoft.PythonTools.Analysis.PyLibAnalyzer.Analyze()
+   at Microsoft.PythonTools.Analysis.PyLibAnalyzer.<RunWorker>d__31.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.PythonTools.Analysis.PyLibAnalyzer.<Run>d__30.MoveNext()
+
+2017-10-11T14:36:47: Start analysis
+2017-10-11T14:36:47: [WARNING] Library was set explicitly - skipping path detection
+2017-10-11T14:36:47: IncludeModulesFromModulePath = win32com
+2017-10-11T14:36:47: Deleting 64 files
+2017-10-11T14:36:47: Scraping builtin modules
+2017-10-11T14:36:47: Command: "D:\projects\plant growth rate\PlantGrowthProject\PlantGrowthProject\PlantGrowthProject\env\Scripts\python.exe" "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\PythonScraper.py" "D:\projects\plant growth rate\PlantGrowthProject\PlantGrowthProject\PlantGrowthProject\env\.ptvs\\" "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\\"
+2017-10-11T14:36:48: Output
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_codecs.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_collections.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_functools.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_heapq.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_io.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_locale.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_md5.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_random.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_sha256.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_sha512.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_sre.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_struct.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_warnings.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_weakref.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\array.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\binascii.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\cmath.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\errno.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\gc.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\itertools.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\marshal.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\math.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\mmap.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\msvcrt.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\nt.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\sys.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\time.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\xxsubtype.idb
+2017-10-11T14:36:48: Scraped builtin modules
+2017-10-11T14:36:48: Scraping markupsafe._speedups
+2017-10-11T14:36:48: Command: "D:\projects\plant growth rate\PlantGrowthProject\PlantGrowthProject\PlantGrowthProject\env\Scripts\python.exe" "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\ExtensionScraper.py" scrape markupsafe._speedups "D:\projects\plant growth rate\PlantGrowthProject\PlantGrowthProject\PlantGrowthProject\env\Lib\site-packages" "D:\projects\plant growth rate\PlantGrowthProject\PlantGrowthProject\PlantGrowthProject\env\.ptvs\markupsafe\markupsafe._speedups"
+2017-10-11T14:36:48: Scraped 1 files
+2017-10-11T14:36:48: astropy.CallDepth = 0
+2017-10-11T14:36:48: matplotlib.CallDepth = 3
+2017-10-11T14:36:48: pandas.CallDepth = 0
+2017-10-11T14:36:48: sympy.CallDepth = 0
+2017-10-11T14:36:48: Start group "D:\projects\plant growth rate\PlantGrowthProject\PlantGrowthProject\PlantGrowthProject\env\Lib\site-packages" with 2 files
+2017-10-11T14:36:48: [ERROR] Analysis failed
+System.IO.DirectoryNotFoundException: Could not find a part of the path 'C:\Users\User\AppData\Local\Python Tools\CompletionDB\14.0\94056900-1195-4796-87f0-13a608f4d60b\3.5'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.Directory.GetFiles(String path)
+   at Microsoft.PythonTools.Interpreter.SharedDatabaseState.LoadDatabase(String databaseDirectory)
+   at Microsoft.PythonTools.Interpreter.PythonTypeDatabase..ctor(PythonInterpreterFactoryWithDatabase factory, IEnumerable`1 databaseDirectories, PythonTypeDatabase innerDatabase)
+   at Microsoft.PythonTools.Interpreter.Default.AnalysisOnlyInterpreterFactory.MakeTypeDatabase(String databasePath, Boolean includeSitePackages)
+   at Microsoft.PythonTools.Interpreter.PythonInterpreterFactoryWithDatabase.GetCurrentDatabase()
+   at Microsoft.PythonTools.Interpreter.Default.CPythonInterpreter..ctor(PythonInterpreterFactoryWithDatabase factory)
+   at Microsoft.PythonTools.Interpreter.PythonInterpreterFactoryWithDatabase.MakeInterpreter(PythonInterpreterFactoryWithDatabase factory)
+   at Microsoft.PythonTools.Interpreter.PythonInterpreterFactoryWithDatabase.CreateInterpreter()
+   at Microsoft.PythonTools.Analysis.PythonAnalyzer..ctor(IPythonInterpreterFactory factory, IPythonInterpreter pythonInterpreter, String builtinName)
+   at Microsoft.PythonTools.Analysis.PythonAnalyzer.<CreateAsync>d__53.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.VisualStudioTools.TaskExtensions.WaitAndUnwrapExceptions[T](Task`1 task)
+   at Microsoft.PythonTools.Analysis.PyLibAnalyzer.Analyze()
+   at Microsoft.PythonTools.Analysis.PyLibAnalyzer.<RunWorker>d__31.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.PythonTools.Analysis.PyLibAnalyzer.<Run>d__30.MoveNext()
+
+2017-10-11T14:43:02: Start analysis
+2017-10-11T14:43:02: [WARNING] Library was set explicitly - skipping path detection
+2017-10-11T14:43:02: IncludeModulesFromModulePath = win32com
+2017-10-11T14:43:02: Deleting 64 files
+2017-10-11T14:43:02: Scraping builtin modules
+2017-10-11T14:43:02: Command: "D:\projects\plant growth rate\PlantGrowthProject\PlantGrowthProject\PlantGrowthProject\env\Scripts\python.exe" "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\PythonScraper.py" "D:\projects\plant growth rate\PlantGrowthProject\PlantGrowthProject\PlantGrowthProject\env\.ptvs\\" "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\\"
+2017-10-11T14:43:03: Output
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_codecs.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_collections.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_functools.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_heapq.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_io.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_locale.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_md5.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_random.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_sha256.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_sha512.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_sre.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_struct.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_warnings.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_weakref.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\array.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\binascii.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\cmath.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\errno.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\gc.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\itertools.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\marshal.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\math.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\mmap.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\msvcrt.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\nt.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\sys.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\time.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\xxsubtype.idb
+2017-10-11T14:43:03: Scraped builtin modules
+2017-10-11T14:43:03: Scraping markupsafe._speedups
+2017-10-11T14:43:03: Command: "D:\projects\plant growth rate\PlantGrowthProject\PlantGrowthProject\PlantGrowthProject\env\Scripts\python.exe" "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\ExtensionScraper.py" scrape markupsafe._speedups "D:\projects\plant growth rate\PlantGrowthProject\PlantGrowthProject\PlantGrowthProject\env\Lib\site-packages" "D:\projects\plant growth rate\PlantGrowthProject\PlantGrowthProject\PlantGrowthProject\env\.ptvs\markupsafe\markupsafe._speedups"
+2017-10-11T14:43:03: Scraped 1 files
+2017-10-11T14:43:03: astropy.CallDepth = 0
+2017-10-11T14:43:03: matplotlib.CallDepth = 3
+2017-10-11T14:43:03: pandas.CallDepth = 0
+2017-10-11T14:43:03: sympy.CallDepth = 0
+2017-10-11T14:43:03: Start group "D:\projects\plant growth rate\PlantGrowthProject\PlantGrowthProject\PlantGrowthProject\env\Lib\site-packages" with 2 files
+2017-10-11T14:43:03: [ERROR] Analysis failed
+System.IO.DirectoryNotFoundException: Could not find a part of the path 'C:\Users\User\AppData\Local\Python Tools\CompletionDB\14.0\94056900-1195-4796-87f0-13a608f4d60b\3.5'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.Directory.GetFiles(String path)
+   at Microsoft.PythonTools.Interpreter.SharedDatabaseState.LoadDatabase(String databaseDirectory)
+   at Microsoft.PythonTools.Interpreter.PythonTypeDatabase..ctor(PythonInterpreterFactoryWithDatabase factory, IEnumerable`1 databaseDirectories, PythonTypeDatabase innerDatabase)
+   at Microsoft.PythonTools.Interpreter.Default.AnalysisOnlyInterpreterFactory.MakeTypeDatabase(String databasePath, Boolean includeSitePackages)
+   at Microsoft.PythonTools.Interpreter.PythonInterpreterFactoryWithDatabase.GetCurrentDatabase()
+   at Microsoft.PythonTools.Interpreter.Default.CPythonInterpreter..ctor(PythonInterpreterFactoryWithDatabase factory)
+   at Microsoft.PythonTools.Interpreter.PythonInterpreterFactoryWithDatabase.MakeInterpreter(PythonInterpreterFactoryWithDatabase factory)
+   at Microsoft.PythonTools.Interpreter.PythonInterpreterFactoryWithDatabase.CreateInterpreter()
+   at Microsoft.PythonTools.Analysis.PythonAnalyzer..ctor(IPythonInterpreterFactory factory, IPythonInterpreter pythonInterpreter, String builtinName)
+   at Microsoft.PythonTools.Analysis.PythonAnalyzer.<CreateAsync>d__53.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.VisualStudioTools.TaskExtensions.WaitAndUnwrapExceptions[T](Task`1 task)
+   at Microsoft.PythonTools.Analysis.PyLibAnalyzer.Analyze()
+   at Microsoft.PythonTools.Analysis.PyLibAnalyzer.<RunWorker>d__31.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.PythonTools.Analysis.PyLibAnalyzer.<Run>d__30.MoveNext()
+
+2017-10-11T14:49:20: Start analysis
+2017-10-11T14:49:20: [WARNING] Library was set explicitly - skipping path detection
+2017-10-11T14:49:20: IncludeModulesFromModulePath = win32com
+2017-10-11T14:49:20: Deleting 64 files
+2017-10-11T14:49:20: Scraping builtin modules
+2017-10-11T14:49:20: Command: "D:\projects\plant growth rate\PlantGrowthProject\PlantGrowthProject\PlantGrowthProject\env\Scripts\python.exe" "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\PythonScraper.py" "D:\projects\plant growth rate\PlantGrowthProject\PlantGrowthProject\PlantGrowthProject\env\.ptvs\\" "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\\"
+2017-10-11T14:49:21: Output
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_codecs.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_collections.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_functools.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_heapq.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_io.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_locale.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_md5.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_random.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_sha256.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_sha512.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_sre.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_struct.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_warnings.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_weakref.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\array.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\binascii.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\cmath.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\errno.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\gc.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\itertools.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\marshal.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\math.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\mmap.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\msvcrt.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\nt.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\sys.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\time.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\xxsubtype.idb
+2017-10-11T14:49:21: Scraped builtin modules
+2017-10-11T14:49:21: Scraping markupsafe._speedups
+2017-10-11T14:49:21: Command: "D:\projects\plant growth rate\PlantGrowthProject\PlantGrowthProject\PlantGrowthProject\env\Scripts\python.exe" "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\ExtensionScraper.py" scrape markupsafe._speedups "D:\projects\plant growth rate\PlantGrowthProject\PlantGrowthProject\PlantGrowthProject\env\Lib\site-packages" "D:\projects\plant growth rate\PlantGrowthProject\PlantGrowthProject\PlantGrowthProject\env\.ptvs\markupsafe\markupsafe._speedups"
+2017-10-11T14:49:21: Scraped 1 files
+2017-10-11T14:49:21: astropy.CallDepth = 0
+2017-10-11T14:49:21: matplotlib.CallDepth = 3
+2017-10-11T14:49:21: pandas.CallDepth = 0
+2017-10-11T14:49:21: sympy.CallDepth = 0
+2017-10-11T14:49:21: Start group "D:\projects\plant growth rate\PlantGrowthProject\PlantGrowthProject\PlantGrowthProject\env\Lib\site-packages" with 2 files
+2017-10-11T14:49:21: [ERROR] Analysis failed
+System.IO.DirectoryNotFoundException: Could not find a part of the path 'C:\Users\User\AppData\Local\Python Tools\CompletionDB\14.0\94056900-1195-4796-87f0-13a608f4d60b\3.5'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.Directory.GetFiles(String path)
+   at Microsoft.PythonTools.Interpreter.SharedDatabaseState.LoadDatabase(String databaseDirectory)
+   at Microsoft.PythonTools.Interpreter.PythonTypeDatabase..ctor(PythonInterpreterFactoryWithDatabase factory, IEnumerable`1 databaseDirectories, PythonTypeDatabase innerDatabase)
+   at Microsoft.PythonTools.Interpreter.Default.AnalysisOnlyInterpreterFactory.MakeTypeDatabase(String databasePath, Boolean includeSitePackages)
+   at Microsoft.PythonTools.Interpreter.PythonInterpreterFactoryWithDatabase.GetCurrentDatabase()
+   at Microsoft.PythonTools.Interpreter.Default.CPythonInterpreter..ctor(PythonInterpreterFactoryWithDatabase factory)
+   at Microsoft.PythonTools.Interpreter.PythonInterpreterFactoryWithDatabase.MakeInterpreter(PythonInterpreterFactoryWithDatabase factory)
+   at Microsoft.PythonTools.Interpreter.PythonInterpreterFactoryWithDatabase.CreateInterpreter()
+   at Microsoft.PythonTools.Analysis.PythonAnalyzer..ctor(IPythonInterpreterFactory factory, IPythonInterpreter pythonInterpreter, String builtinName)
+   at Microsoft.PythonTools.Analysis.PythonAnalyzer.<CreateAsync>d__53.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.VisualStudioTools.TaskExtensions.WaitAndUnwrapExceptions[T](Task`1 task)
+   at Microsoft.PythonTools.Analysis.PyLibAnalyzer.Analyze()
+   at Microsoft.PythonTools.Analysis.PyLibAnalyzer.<RunWorker>d__31.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.PythonTools.Analysis.PyLibAnalyzer.<Run>d__30.MoveNext()
+
+2017-10-11T14:51:32: Start analysis
+2017-10-11T14:51:32: [WARNING] Library was set explicitly - skipping path detection
+2017-10-11T14:51:32: IncludeModulesFromModulePath = win32com
+2017-10-11T14:51:32: Deleting 64 files
+2017-10-11T14:51:32: Scraping builtin modules
+2017-10-11T14:51:32: Command: "D:\projects\plant growth rate\PlantGrowthProject\PlantGrowthProject\PlantGrowthProject\env\Scripts\python.exe" "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\PythonScraper.py" "D:\projects\plant growth rate\PlantGrowthProject\PlantGrowthProject\PlantGrowthProject\env\.ptvs\\" "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\\"
+2017-10-11T14:51:33: Output
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_codecs.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_collections.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_functools.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_heapq.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_io.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_locale.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_md5.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_random.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_sha256.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_sha512.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_sre.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_struct.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_warnings.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_weakref.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\array.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\binascii.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\cmath.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\errno.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\gc.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\itertools.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\marshal.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\math.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\mmap.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\msvcrt.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\nt.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\sys.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\time.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\xxsubtype.idb
+2017-10-11T14:51:33: Scraped builtin modules
+2017-10-11T14:51:33: Scraping markupsafe._speedups
+2017-10-11T14:51:33: Command: "D:\projects\plant growth rate\PlantGrowthProject\PlantGrowthProject\PlantGrowthProject\env\Scripts\python.exe" "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\ExtensionScraper.py" scrape markupsafe._speedups "D:\projects\plant growth rate\PlantGrowthProject\PlantGrowthProject\PlantGrowthProject\env\Lib\site-packages" "D:\projects\plant growth rate\PlantGrowthProject\PlantGrowthProject\PlantGrowthProject\env\.ptvs\markupsafe\markupsafe._speedups"
+2017-10-11T14:51:33: Scraped 1 files
+2017-10-11T14:51:33: astropy.CallDepth = 0
+2017-10-11T14:51:33: matplotlib.CallDepth = 3
+2017-10-11T14:51:33: pandas.CallDepth = 0
+2017-10-11T14:51:33: sympy.CallDepth = 0
+2017-10-11T14:51:33: Start group "D:\projects\plant growth rate\PlantGrowthProject\PlantGrowthProject\PlantGrowthProject\env\Lib\site-packages" with 2 files
+2017-10-11T14:51:33: [ERROR] Analysis failed
+System.IO.DirectoryNotFoundException: Could not find a part of the path 'C:\Users\User\AppData\Local\Python Tools\CompletionDB\14.0\94056900-1195-4796-87f0-13a608f4d60b\3.5'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.Directory.GetFiles(String path)
+   at Microsoft.PythonTools.Interpreter.SharedDatabaseState.LoadDatabase(String databaseDirectory)
+   at Microsoft.PythonTools.Interpreter.PythonTypeDatabase..ctor(PythonInterpreterFactoryWithDatabase factory, IEnumerable`1 databaseDirectories, PythonTypeDatabase innerDatabase)
+   at Microsoft.PythonTools.Interpreter.Default.AnalysisOnlyInterpreterFactory.MakeTypeDatabase(String databasePath, Boolean includeSitePackages)
+   at Microsoft.PythonTools.Interpreter.PythonInterpreterFactoryWithDatabase.GetCurrentDatabase()
+   at Microsoft.PythonTools.Interpreter.Default.CPythonInterpreter..ctor(PythonInterpreterFactoryWithDatabase factory)
+   at Microsoft.PythonTools.Interpreter.PythonInterpreterFactoryWithDatabase.MakeInterpreter(PythonInterpreterFactoryWithDatabase factory)
+   at Microsoft.PythonTools.Interpreter.PythonInterpreterFactoryWithDatabase.CreateInterpreter()
+   at Microsoft.PythonTools.Analysis.PythonAnalyzer..ctor(IPythonInterpreterFactory factory, IPythonInterpreter pythonInterpreter, String builtinName)
+   at Microsoft.PythonTools.Analysis.PythonAnalyzer.<CreateAsync>d__53.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.VisualStudioTools.TaskExtensions.WaitAndUnwrapExceptions[T](Task`1 task)
+   at Microsoft.PythonTools.Analysis.PyLibAnalyzer.Analyze()
+   at Microsoft.PythonTools.Analysis.PyLibAnalyzer.<RunWorker>d__31.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.PythonTools.Analysis.PyLibAnalyzer.<Run>d__30.MoveNext()
+
+2017-10-11T15:22:49: Start analysis
+2017-10-11T15:22:49: [WARNING] Library was set explicitly - skipping path detection
+2017-10-11T15:22:49: IncludeModulesFromModulePath = win32com
+2017-10-11T15:22:50: Deleting 64 files
+2017-10-11T15:22:50: Scraping builtin modules
+2017-10-11T15:22:50: Command: "D:\projects\plant growth rate\PlantGrowthProject\PlantGrowthProject\PlantGrowthProject\env\Scripts\python.exe" "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\PythonScraper.py" "D:\projects\plant growth rate\PlantGrowthProject\PlantGrowthProject\PlantGrowthProject\env\.ptvs\\" "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\\"
+2017-10-11T15:22:51: Output
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_codecs.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_collections.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_functools.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_heapq.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_io.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_locale.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_md5.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_random.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_sha256.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_sha512.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_sre.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_struct.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_warnings.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_weakref.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\array.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\binascii.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\cmath.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\errno.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\gc.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\itertools.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\marshal.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\math.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\mmap.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\msvcrt.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\nt.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\sys.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\time.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\xxsubtype.idb
+2017-10-11T15:22:51: Scraped builtin modules
+2017-10-11T15:22:51: Scraping markupsafe._speedups
+2017-10-11T15:22:51: Command: "D:\projects\plant growth rate\PlantGrowthProject\PlantGrowthProject\PlantGrowthProject\env\Scripts\python.exe" "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\ExtensionScraper.py" scrape markupsafe._speedups "D:\projects\plant growth rate\PlantGrowthProject\PlantGrowthProject\PlantGrowthProject\env\Lib\site-packages" "D:\projects\plant growth rate\PlantGrowthProject\PlantGrowthProject\PlantGrowthProject\env\.ptvs\markupsafe\markupsafe._speedups"
+2017-10-11T15:22:51: Scraped 1 files
+2017-10-11T15:22:51: astropy.CallDepth = 0
+2017-10-11T15:22:51: matplotlib.CallDepth = 3
+2017-10-11T15:22:51: pandas.CallDepth = 0
+2017-10-11T15:22:51: sympy.CallDepth = 0
+2017-10-11T15:22:51: Start group "D:\projects\plant growth rate\PlantGrowthProject\PlantGrowthProject\PlantGrowthProject\env\Lib\site-packages" with 2 files
+2017-10-11T15:22:51: [ERROR] Analysis failed
+System.IO.DirectoryNotFoundException: Could not find a part of the path 'C:\Users\User\AppData\Local\Python Tools\CompletionDB\14.0\94056900-1195-4796-87f0-13a608f4d60b\3.5'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.Directory.GetFiles(String path)
+   at Microsoft.PythonTools.Interpreter.SharedDatabaseState.LoadDatabase(String databaseDirectory)
+   at Microsoft.PythonTools.Interpreter.PythonTypeDatabase..ctor(PythonInterpreterFactoryWithDatabase factory, IEnumerable`1 databaseDirectories, PythonTypeDatabase innerDatabase)
+   at Microsoft.PythonTools.Interpreter.Default.AnalysisOnlyInterpreterFactory.MakeTypeDatabase(String databasePath, Boolean includeSitePackages)
+   at Microsoft.PythonTools.Interpreter.PythonInterpreterFactoryWithDatabase.GetCurrentDatabase()
+   at Microsoft.PythonTools.Interpreter.Default.CPythonInterpreter..ctor(PythonInterpreterFactoryWithDatabase factory)
+   at Microsoft.PythonTools.Interpreter.PythonInterpreterFactoryWithDatabase.MakeInterpreter(PythonInterpreterFactoryWithDatabase factory)
+   at Microsoft.PythonTools.Interpreter.PythonInterpreterFactoryWithDatabase.CreateInterpreter()
+   at Microsoft.PythonTools.Analysis.PythonAnalyzer..ctor(IPythonInterpreterFactory factory, IPythonInterpreter pythonInterpreter, String builtinName)
+   at Microsoft.PythonTools.Analysis.PythonAnalyzer.<CreateAsync>d__53.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.VisualStudioTools.TaskExtensions.WaitAndUnwrapExceptions[T](Task`1 task)
+   at Microsoft.PythonTools.Analysis.PyLibAnalyzer.Analyze()
+   at Microsoft.PythonTools.Analysis.PyLibAnalyzer.<RunWorker>d__31.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.PythonTools.Analysis.PyLibAnalyzer.<Run>d__30.MoveNext()
+
+2017-10-11T15:34:22: Start analysis
+2017-10-11T15:34:22: [WARNING] Library was set explicitly - skipping path detection
+2017-10-11T15:34:22: IncludeModulesFromModulePath = win32com
+2017-10-11T15:34:22: Deleting 64 files
+2017-10-11T15:34:22: Scraping builtin modules
+2017-10-11T15:34:22: Command: "D:\projects\plant growth rate\PlantGrowthProject\PlantGrowthProject\PlantGrowthProject\env\Scripts\python.exe" "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\PythonScraper.py" "D:\projects\plant growth rate\PlantGrowthProject\PlantGrowthProject\PlantGrowthProject\env\.ptvs\\" "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\\"
+2017-10-11T15:34:24: Output
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_codecs.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_collections.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_functools.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_heapq.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_io.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_locale.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_md5.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_random.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_sha256.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_sha512.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_sre.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_struct.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_warnings.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_weakref.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\array.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\binascii.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\cmath.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\errno.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\gc.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\itertools.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\marshal.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\math.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\mmap.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\msvcrt.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\nt.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\sys.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\time.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\xxsubtype.idb
+2017-10-11T15:34:24: Scraped builtin modules
+2017-10-11T15:34:24: Scraping markupsafe._speedups
+2017-10-11T15:34:24: Command: "D:\projects\plant growth rate\PlantGrowthProject\PlantGrowthProject\PlantGrowthProject\env\Scripts\python.exe" "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\ExtensionScraper.py" scrape markupsafe._speedups "D:\projects\plant growth rate\PlantGrowthProject\PlantGrowthProject\PlantGrowthProject\env\Lib\site-packages" "D:\projects\plant growth rate\PlantGrowthProject\PlantGrowthProject\PlantGrowthProject\env\.ptvs\markupsafe\markupsafe._speedups"
+2017-10-11T15:34:24: Scraped 1 files
+2017-10-11T15:34:24: astropy.CallDepth = 0
+2017-10-11T15:34:24: matplotlib.CallDepth = 3
+2017-10-11T15:34:24: pandas.CallDepth = 0
+2017-10-11T15:34:24: sympy.CallDepth = 0
+2017-10-11T15:34:24: Start group "D:\projects\plant growth rate\PlantGrowthProject\PlantGrowthProject\PlantGrowthProject\env\Lib\site-packages" with 2 files
+2017-10-11T15:34:24: [ERROR] Analysis failed
+System.IO.DirectoryNotFoundException: Could not find a part of the path 'C:\Users\User\AppData\Local\Python Tools\CompletionDB\14.0\94056900-1195-4796-87f0-13a608f4d60b\3.5'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.Directory.GetFiles(String path)
+   at Microsoft.PythonTools.Interpreter.SharedDatabaseState.LoadDatabase(String databaseDirectory)
+   at Microsoft.PythonTools.Interpreter.PythonTypeDatabase..ctor(PythonInterpreterFactoryWithDatabase factory, IEnumerable`1 databaseDirectories, PythonTypeDatabase innerDatabase)
+   at Microsoft.PythonTools.Interpreter.Default.AnalysisOnlyInterpreterFactory.MakeTypeDatabase(String databasePath, Boolean includeSitePackages)
+   at Microsoft.PythonTools.Interpreter.PythonInterpreterFactoryWithDatabase.GetCurrentDatabase()
+   at Microsoft.PythonTools.Interpreter.Default.CPythonInterpreter..ctor(PythonInterpreterFactoryWithDatabase factory)
+   at Microsoft.PythonTools.Interpreter.PythonInterpreterFactoryWithDatabase.MakeInterpreter(PythonInterpreterFactoryWithDatabase factory)
+   at Microsoft.PythonTools.Interpreter.PythonInterpreterFactoryWithDatabase.CreateInterpreter()
+   at Microsoft.PythonTools.Analysis.PythonAnalyzer..ctor(IPythonInterpreterFactory factory, IPythonInterpreter pythonInterpreter, String builtinName)
+   at Microsoft.PythonTools.Analysis.PythonAnalyzer.<CreateAsync>d__53.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.VisualStudioTools.TaskExtensions.WaitAndUnwrapExceptions[T](Task`1 task)
+   at Microsoft.PythonTools.Analysis.PyLibAnalyzer.Analyze()
+   at Microsoft.PythonTools.Analysis.PyLibAnalyzer.<RunWorker>d__31.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.PythonTools.Analysis.PyLibAnalyzer.<Run>d__30.MoveNext()
+
+2017-10-11T16:17:05: Start analysis
+2017-10-11T16:17:05: [WARNING] Library was set explicitly - skipping path detection
+2017-10-11T16:17:05: IncludeModulesFromModulePath = win32com
+2017-10-11T16:17:05: Deleting 64 files
+2017-10-11T16:17:05: Scraping builtin modules
+2017-10-11T16:17:05: Command: "D:\projects\plant growth rate\PlantGrowthProject\PlantGrowthProject\PlantGrowthProject\env\Scripts\python.exe" "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\PythonScraper.py" "D:\projects\plant growth rate\PlantGrowthProject\PlantGrowthProject\PlantGrowthProject\env\.ptvs\\" "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\\"
+2017-10-11T16:17:06: Output
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_codecs.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_collections.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_functools.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_heapq.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_io.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_locale.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_md5.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_random.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_sha256.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_sha512.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_sre.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_struct.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_warnings.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_weakref.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\array.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\binascii.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\cmath.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\errno.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\gc.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\itertools.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\marshal.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\math.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\mmap.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\msvcrt.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\nt.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\sys.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\time.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\xxsubtype.idb
+2017-10-11T16:17:06: Scraped builtin modules
+2017-10-11T16:17:06: Scraping markupsafe._speedups
+2017-10-11T16:17:06: Command: "D:\projects\plant growth rate\PlantGrowthProject\PlantGrowthProject\PlantGrowthProject\env\Scripts\python.exe" "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\ExtensionScraper.py" scrape markupsafe._speedups "D:\projects\plant growth rate\PlantGrowthProject\PlantGrowthProject\PlantGrowthProject\env\Lib\site-packages" "D:\projects\plant growth rate\PlantGrowthProject\PlantGrowthProject\PlantGrowthProject\env\.ptvs\markupsafe\markupsafe._speedups"
+2017-10-11T16:17:07: Scraped 1 files
+2017-10-11T16:17:07: astropy.CallDepth = 0
+2017-10-11T16:17:07: matplotlib.CallDepth = 3
+2017-10-11T16:17:07: pandas.CallDepth = 0
+2017-10-11T16:17:07: sympy.CallDepth = 0
+2017-10-11T16:17:07: Start group "D:\projects\plant growth rate\PlantGrowthProject\PlantGrowthProject\PlantGrowthProject\env\Lib\site-packages" with 2 files
+2017-10-11T16:17:07: [ERROR] Analysis failed
+System.IO.DirectoryNotFoundException: Could not find a part of the path 'C:\Users\User\AppData\Local\Python Tools\CompletionDB\14.0\94056900-1195-4796-87f0-13a608f4d60b\3.5'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.Directory.GetFiles(String path)
+   at Microsoft.PythonTools.Interpreter.SharedDatabaseState.LoadDatabase(String databaseDirectory)
+   at Microsoft.PythonTools.Interpreter.PythonTypeDatabase..ctor(PythonInterpreterFactoryWithDatabase factory, IEnumerable`1 databaseDirectories, PythonTypeDatabase innerDatabase)
+   at Microsoft.PythonTools.Interpreter.Default.AnalysisOnlyInterpreterFactory.MakeTypeDatabase(String databasePath, Boolean includeSitePackages)
+   at Microsoft.PythonTools.Interpreter.PythonInterpreterFactoryWithDatabase.GetCurrentDatabase()
+   at Microsoft.PythonTools.Interpreter.Default.CPythonInterpreter..ctor(PythonInterpreterFactoryWithDatabase factory)
+   at Microsoft.PythonTools.Interpreter.PythonInterpreterFactoryWithDatabase.MakeInterpreter(PythonInterpreterFactoryWithDatabase factory)
+   at Microsoft.PythonTools.Interpreter.PythonInterpreterFactoryWithDatabase.CreateInterpreter()
+   at Microsoft.PythonTools.Analysis.PythonAnalyzer..ctor(IPythonInterpreterFactory factory, IPythonInterpreter pythonInterpreter, String builtinName)
+   at Microsoft.PythonTools.Analysis.PythonAnalyzer.<CreateAsync>d__53.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.VisualStudioTools.TaskExtensions.WaitAndUnwrapExceptions[T](Task`1 task)
+   at Microsoft.PythonTools.Analysis.PyLibAnalyzer.Analyze()
+   at Microsoft.PythonTools.Analysis.PyLibAnalyzer.<RunWorker>d__31.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.PythonTools.Analysis.PyLibAnalyzer.<Run>d__30.MoveNext()
