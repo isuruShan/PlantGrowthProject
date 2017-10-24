@@ -1,0 +1,23 @@
+
+*************How to set up the background*************
+
+1)Install visual studio enterprise edition/ install python
+2)Get numpy, openCv, matplotlib wheel packages suitable with the python environment from [http://www.lfd.uci.edu/~gohlke/pythonlibs/#opencv]
+3)Add pyhon as an environment variable
+4)Using Cmd install numpy, openCv, matplotlib wheel packages with the code of 
+	"python -mpip install -U pip
+	python -mpip install -U Locations"
+5)Install SQL and SQL server management studio
+6)Now download the Project and enjoy all the features
+
+
+***********How to use git************
+
+-git remote add origin https://github.com/username/myproject.git
+-git remote -v
+-git push
+-git init
+-git status
+-git add chocolate.jpeg
+-git commit -m “Add chocolate.jpeg.”
+-git push

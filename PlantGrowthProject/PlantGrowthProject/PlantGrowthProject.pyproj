@@ -30,12 +30,16 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="PlantGrowthProject\ProcessImg.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="runserver.py" />
     <Compile Include="PlantGrowthProject\__init__.py" />
     <Compile Include="PlantGrowthProject\views.py" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="PlantGrowthProject\" />
+    <Folder Include="PlantGrowthProject\Resources\" />
     <Folder Include="PlantGrowthProject\static\" />
     <Folder Include="PlantGrowthProject\static\content\" />
     <Folder Include="PlantGrowthProject\static\fonts\" />
@@ -49,6 +53,7 @@
     <Folder Include="PlantGrowthProject\templates\" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="PlantGrowthProject\Resources\3.JPG" />
     <Content Include="PlantGrowthProject\static\content\demo.css" />
     <Content Include="PlantGrowthProject\static\content\Login.css" />
     <Content Include="PlantGrowthProject\static\content\material-dashboard.css" />
