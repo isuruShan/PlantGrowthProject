@@ -18,8 +18,9 @@
     <PythonWsgiHandler>$(MSBuildProjectName).app</PythonWsgiHandler>
     <Name>PlantGrowthProject</Name>
     <RootNamespace>PlantGrowthProject</RootNamespace>
-    <InterpreterId>{5ddee49a-2991-4743-8b93-abadb4a13c28}</InterpreterId>
+    <InterpreterId>{a9bf4afe-9250-41ad-b862-8de198309a41}</InterpreterId>
     <InterpreterVersion>3.5</InterpreterVersion>
+    <WebBrowserPort>50000</WebBrowserPort>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
     <DebugSymbols>true</DebugSymbols>
@@ -68,6 +69,8 @@
     <Content Include="PlantGrowthProject\static\images\sidebar-3.jpg" />
     <Content Include="PlantGrowthProject\static\images\sidebar-4.jpg" />
     <Content Include="PlantGrowthProject\static\images\tim_80x80.png" />
+    <Content Include="PlantGrowthProject\static\sass\font-awesome.min.css" />
+    <Content Include="PlantGrowthProject\static\sass\Material+Icons.css" />
     <Content Include="PlantGrowthProject\static\sass\material-dashboard.scss" />
     <Content Include="PlantGrowthProject\static\sass\md\mixins\_chartist.scss" />
     <Content Include="PlantGrowthProject\static\sass\md\mixins\_transparency.scss" />
@@ -103,16 +106,22 @@
     <Content Include="PlantGrowthProject\static\sass\md\_togglebutton.scss" />
     <Content Include="PlantGrowthProject\static\sass\md\_typography.scss" />
     <Content Include="PlantGrowthProject\static\sass\md\_variables.scss" />
+    <Content Include="PlantGrowthProject\static\scripts\About.js" />
     <Content Include="PlantGrowthProject\static\scripts\arrive.min.js" />
     <Content Include="PlantGrowthProject\static\scripts\bootstrap-notify.js" />
+    <Content Include="PlantGrowthProject\static\scripts\Chart.bundle.min.js" />
+    <Content Include="PlantGrowthProject\static\scripts\Chart.min.js" />
     <Content Include="PlantGrowthProject\static\scripts\chartist.min.js" />
+    <Content Include="PlantGrowthProject\static\scripts\contact.js" />
     <Content Include="PlantGrowthProject\static\scripts\demo.js" />
     <Content Include="PlantGrowthProject\static\scripts\jquery-3.2.1.min.js" />
     <Content Include="PlantGrowthProject\static\scripts\Login.js" />
     <Content Include="PlantGrowthProject\static\scripts\material-dashboard.js" />
     <Content Include="PlantGrowthProject\static\scripts\material.min.js" />
     <Content Include="PlantGrowthProject\static\scripts\perfect-scrollbar.jquery.min.js" />
+    <Content Include="PlantGrowthProject\static\scripts\Report_02.js" />
     <Content Include="PlantGrowthProject\templates\Test.html" />
+    <Content Include="PlantGrowthProject\templates\Report_02.html" />
     <Content Include="requirements.txt" />
     <Content Include="PlantGrowthProject\static\content\bootstrap.css" />
     <Content Include="PlantGrowthProject\static\content\bootstrap.min.css" />
@@ -142,7 +151,7 @@
     <Content Include="PlantGrowthProject\templates\layout.html" />
   </ItemGroup>
   <ItemGroup>
-    <InterpreterReference Include="{5ddee49a-2991-4743-8b93-abadb4a13c28}\3.5" />
+    <InterpreterReference Include="{a9bf4afe-9250-41ad-b862-8de198309a41}\3.5" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.Web.targets" />
   <!-- Specify pre- and post-build commands in the BeforeBuild and 

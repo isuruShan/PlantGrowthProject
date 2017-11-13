@@ -20,9 +20,8 @@
     <!--  CSS for Demo Purpose, don't include it in your project     -->
     <link href="../static/content/demo.css" rel="stylesheet" />
     <!--     Fonts and icons     -->
-    <link href="http://maxcdn.bootstrapcdn.com/font-awesome/latest/css/font-awesome.min.css" rel="stylesheet">
-    <link href='http://fonts.googleapis.com/css?family=Roboto:400,700,300|Material+Icons' rel='stylesheet' type='text/css'>
-
+    <link href="../static/sass/font-awesome.min.css" rel="stylesheet" />
+    <link href="../static/sass/Material+Icons.css" rel="stylesheet" />
 </head>
 
 <body>
@@ -50,139 +49,21 @@
                     <li>
                         <a href="{{ url_for('contact') }}">
                             <i class="material-icons">library_books</i>
-                            <p>Reports</p>
-                        </a>
-                    </li>
-                    <!--<li>
-                        <a href="./table.html">
-                            <i class="material-icons">content_paste</i>
-                            <p>Table List</p>
+                            <p>Report 01</p>
                         </a>
                     </li>
                     <li>
-                        <a href="./typography.html">
+                        <a href="{{ url_for('Report_02') }}">
                             <i class="material-icons">library_books</i>
-                            <p>Typography</p>
+                            <p>Report 02</p>
                         </a>
                     </li>
-                    <li>
-                        <a href="./icons.html">
-                            <i class="material-icons">bubble_chart</i>
-                            <p>Icons</p>
-                        </a>
-                    </li>
-                    <li>
-                        <a href="./maps.html">
-                            <i class="material-icons">location_on</i>
-                            <p>Maps</p>
-                        </a>
-                    </li>
-                    <li>
-                        <a href="./notifications.html">
-                            <i class="material-icons text-gray">notifications</i>
-                            <p>Notifications</p>
-                        </a>
-                    </li>
-                    <li class="active-pro">
-                        <a href="upgrade.html">
-                            <i class="material-icons">unarchive</i>
-                            <p>Upgrade to PRO</p>
-                        </a>
-                    </li>-->
                 </ul>
             </div>
         </div>
         <div class="main-panel">
-            <!--<nav class="navbar navbar-transparent navbar-absolute">
-                <div class="container-fluid">
-                    <div class="navbar-header">
-                        <button type="button" class="navbar-toggle" data-toggle="collapse">
-                            <span class="sr-only">Toggle navigation</span>
-                            <span class="icon-bar"></span>
-                            <span class="icon-bar"></span>
-                            <span class="icon-bar"></span>
-                        </button>
-                        <a class="navbar-brand" href="#"> Material Dashboard </a>
-                    </div>
-                    <div class="collapse navbar-collapse">
-                        <ul class="nav navbar-nav navbar-right">
-                            <li>
-                                <a href="#pablo" class="dropdown-toggle" data-toggle="dropdown">
-                                    <i class="material-icons">dashboard</i>
-                                    <p class="hidden-lg hidden-md">Dashboard</p>
-                                </a>
-                            </li>
-                            <li class="dropdown">
-                                <a href="#" class="dropdown-toggle" data-toggle="dropdown">
-                                    <i class="material-icons">notifications</i>
-                                    <span class="notification">5</span>
-                                    <p class="hidden-lg hidden-md">Notifications</p>
-                                </a>
-                                <ul class="dropdown-menu">
-                                    <li>
-                                        <a href="#">Mike John responded to your email</a>
-                                    </li>
-                                    <li>
-                                        <a href="#">You have 5 new tasks</a>
-                                    </li>
-                                    <li>
-                                        <a href="#">You're now friend with Andrew</a>
-                                    </li>
-                                    <li>
-                                        <a href="#">Another Notification</a>
-                                    </li>
-                                    <li>
-                                        <a href="#">Another One</a>
-                                    </li>
-                                </ul>
-                            </li>
-                            <li>
-                                <a href="#pablo" class="dropdown-toggle" data-toggle="dropdown">
-                                    <i class="material-icons">person</i>
-                                    <p class="hidden-lg hidden-md">Profile</p>
-                                </a>
-                            </li>
-                        </ul>
-                        <form class="navbar-form navbar-right" role="search">
-                            <div class="form-group  is-empty">
-                                <input type="text" class="form-control" placeholder="Search">
-                                <span class="material-input"></span>
-                            </div>
-                            <button type="submit" class="btn btn-white btn-round btn-just-icon">
-                                <i class="material-icons">search</i>
-                                <div class="ripple-container"></div>
-                            </button>
-                        </form>
-                    </div>
-                </div>
-            </nav>-->
-
-            <!--<div class="navbar navbar-inverse navbar-fixed-top">
-                <div class="container">
-                    <div class="navbar-header">
-                        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-                            <span class="icon-bar"></span>
-                            <span class="icon-bar"></span>
-                            <span class="icon-bar"></span>
-                        </button>
-                        <a href="/" class="navbar-brand">Application name</a>
-                    </div>
-                    <div class="navbar-collapse collapse">
-                        <ul class="nav navbar-nav">
-                            <li><a href="{{ url_for('home') }}">Home</a></li>
-                            <li><a href="{{ url_for('about') }}">About</a></li>
-                            <li><a href="{{ url_for('contact') }}">Contact</a></li>
-                        </ul>
-                    </div>
-                </div>
-            </div>-->
-            <!--<div class="container body-content">-->
             <div class="content">
                 {% block content %}{% endblock %}
-                <!--<hr />-->
-                <!--<footer>
-                    <p>&copy; {{ year }} - My Flask Application</p>
-                </footer>-->
                 <footer class="footer">
                     <div class="container-fluid">
                         <p class="copyright pull-right">
@@ -215,8 +96,6 @@
     <script src="../static/scripts/perfect-scrollbar.jquery.min.js"></script>
     <!--  Notifications Plugin    -->
     <script src="../static/scripts/bootstrap-notify.js"></script>
-    <!--  Google Maps Plugin    -->
-    <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=YOUR_KEY_HERE"></script>
     <!-- Material Dashboard javascript methods -->
     <script src="../static/scripts/material-dashboard.js"></script>
     <!-- Material Dashboard DEMO methods, don't include it in your project! -->
