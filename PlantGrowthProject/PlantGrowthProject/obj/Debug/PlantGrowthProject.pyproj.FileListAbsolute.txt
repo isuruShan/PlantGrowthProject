@@ -1,31 +1,3 @@
-E:\Treset Solutions\PlantGrowthProject\PlantGrowthProject\bin\Microsoft.PythonTools.WebRole.dll
-E:\Treset Solutions\PlantGrowthProject\PlantGrowthProject\obj\Debug\attach_server.py
-E:\Treset Solutions\PlantGrowthProject\PlantGrowthProject\obj\Debug\visualstudio_py_debugger.py
-E:\Treset Solutions\PlantGrowthProject\PlantGrowthProject\obj\Debug\visualstudio_py_repl.py
-E:\Treset Solutions\PlantGrowthProject\PlantGrowthProject\obj\Debug\visualstudio_py_util.py
-E:\Treset Solutions\PlantGrowthProject\PlantGrowthProject\obj\Debug\__init__.py
-E:\Treset Solutions\PlantGrowthProject\PlantGrowthProject\obj\Debug\__main__.py
-E:\Treset Solutions\PlantGrowthProject\PlantGrowthProject\bin\AzureSetup.cfg
-E:\Treset Solutions\PlantGrowthProject\PlantGrowthProject\bin\Microsoft.PythonTools.AzureSetup.exe
-E:\Treset Solutions\PlantGrowthProject\PlantGrowthProject\bin\Microsoft.PythonTools.AzureSetup.exe.config
-E:\Treset Solutions\PlantGrowthProject\PlantGrowthProject\bin\wfastcgi.py
-E:\Treset Solutions\PlantGrowthProject\PlantGrowthProject\obj\Debug\web.config
-E:\Treset Solutions\PlantGrowthProject\PlantGrowthProject\obj\Debug\web.debug.config
-<<<<<<< HEAD
-D:\projects\plant growth rate\PlantGrowthProject\PlantGrowthProject\PlantGrowthProject\bin\Microsoft.PythonTools.WebRole.dll
-D:\projects\plant growth rate\PlantGrowthProject\PlantGrowthProject\PlantGrowthProject\obj\Debug\attach_server.py
-D:\projects\plant growth rate\PlantGrowthProject\PlantGrowthProject\PlantGrowthProject\obj\Debug\visualstudio_py_debugger.py
-D:\projects\plant growth rate\PlantGrowthProject\PlantGrowthProject\PlantGrowthProject\obj\Debug\visualstudio_py_repl.py
-D:\projects\plant growth rate\PlantGrowthProject\PlantGrowthProject\PlantGrowthProject\obj\Debug\visualstudio_py_util.py
-D:\projects\plant growth rate\PlantGrowthProject\PlantGrowthProject\PlantGrowthProject\obj\Debug\__init__.py
-D:\projects\plant growth rate\PlantGrowthProject\PlantGrowthProject\PlantGrowthProject\obj\Debug\__main__.py
-D:\projects\plant growth rate\PlantGrowthProject\PlantGrowthProject\PlantGrowthProject\bin\AzureSetup.cfg
-D:\projects\plant growth rate\PlantGrowthProject\PlantGrowthProject\PlantGrowthProject\bin\Microsoft.PythonTools.AzureSetup.exe
-D:\projects\plant growth rate\PlantGrowthProject\PlantGrowthProject\PlantGrowthProject\bin\Microsoft.PythonTools.AzureSetup.exe.config
-D:\projects\plant growth rate\PlantGrowthProject\PlantGrowthProject\PlantGrowthProject\bin\wfastcgi.py
-D:\projects\plant growth rate\PlantGrowthProject\PlantGrowthProject\PlantGrowthProject\obj\Debug\web.config
-D:\projects\plant growth rate\PlantGrowthProject\PlantGrowthProject\PlantGrowthProject\obj\Debug\web.debug.config
-=======
 E:\repository\PlantGrowthProject\PlantGrowthProject\PlantGrowthProject\PlantGrowthProject\bin\Microsoft.PythonTools.WebRole.dll
 E:\repository\PlantGrowthProject\PlantGrowthProject\PlantGrowthProject\PlantGrowthProject\obj\Debug\attach_server.py
 E:\repository\PlantGrowthProject\PlantGrowthProject\PlantGrowthProject\PlantGrowthProject\obj\Debug\visualstudio_py_debugger.py
@@ -39,4 +11,3 @@ E:\repository\PlantGrowthProject\PlantGrowthProject\PlantGrowthProject\PlantGrow
 E:\repository\PlantGrowthProject\PlantGrowthProject\PlantGrowthProject\PlantGrowthProject\bin\wfastcgi.py
 E:\repository\PlantGrowthProject\PlantGrowthProject\PlantGrowthProject\PlantGrowthProject\obj\Debug\web.config
 E:\repository\PlantGrowthProject\PlantGrowthProject\PlantGrowthProject\PlantGrowthProject\obj\Debug\web.debug.config
->>>>>>> 7224edf5f1761e81ae83e7f83e39f947e347d939

@@ -4,14 +4,42 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+
 </head>
 <body>
     <div>
-        <h3>Here you can see the system generated report on plant growth</h3>
+        <h3>Here you can see the system generated graph on plant growth</h3>
+        <p><i>Here let X axis be # of images and let Y axis be the growth presentage</i></p>
     </div>
     <div>
         <h3>Your report</h3>
+        <canvas id="myChart" width="40" height="40"></canvas>
     </div>
+
+    <!--Error Modal -->
+    <div class="modal fade" id="myModal" role="dialog">
+        <div class="modal-dialog">
+
+            <!-- Modal content-->
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal">&times;</button>
+                    <h4 class="modal-title">Error Occur</h4>
+                </div>
+                <div class="modal-body">
+                    <p>Please Check the connection</p>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                </div>
+            </div>
+            </div>
+        </div>
+            <!--Java Script links-->
+            <script src="../static/scripts/jquery-3.2.1.min.js"></script>
+            <script src="../static/scripts/Chart.bundle.min.js"></script>
+            <script src="../static/scripts/Chart.min.js"></script>
+            <script src="../static/scripts/contact.js"></script>
 </body>
 </html>
 

@@ -22,42 +22,63 @@
     }
     </style>
 
-    <input type="file" id="files" name="files[]" multiple />
-    <output id="list"></output>
+    <form id="Upload_Form" action="http://localhost:50000/uploader" method="POST"
+          enctype="multipart/form-data">
+        <div class="col-md-12">
+            <table width="100%">
+                <tbody>
+                    <tr>
+                        <td>
+                            <label class="lableMargin">Image Frame Size in cm x cm :</label>
+                            <input class="form-control input-sm required" type="text" id="FrameSize" name="FrameSize" />
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        <div class="col-md-12">
+            <table width="100%">
+                <tbody>
+                    <tr>
+                        <td>
+                            <input class="btn-small btn btn-xs btn-default" type="file" id="files" name="file" accept="image/*" multiple />
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        <!--<input type="file" id="files" name="files[]" multiple />-->
+        <div class="col-md-12">
+            <table width="100%">
+                <tbody>
+                    <tr>
+                        <td>
+                            <output id="list"></output>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        <div class="col-md-12">
+            <table width="100%">
+                <tbody>
+                    <tr>
+                        <td>
+                            <input class="btn-small btn btn-xs btn-default" type="submit" value="Upload" />
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </form>
 
-    <script>
-        function handleFileSelect(evt) {
-            var files = evt.target.files; // FileList object
+    <!--<input type="file" id="files" name="files[]" multiple />
+    <output id="list"></output>-->
 
-            // Loop through the FileList and render image files as thumbnails.
-            for (var i = 0, f; f = files[i]; i++) {
 
-                // Only process image files.
-                if (!f.type.match('image.*')) {
-                    continue;
-                }
-
-                var reader = new FileReader();
-
-                // Closure to capture the file information.
-                reader.onload = (function (theFile) {
-                    return function (e) {
-                        // Render thumbnail.
-                        var span = document.createElement('span');
-                        span.innerHTML = ['<img class="thumb" src="', e.target.result,
-                                          '" title="', escape(theFile.name), '"/>'].join('');
-                        document.getElementById('list').insertBefore(span, null);
-                    };
-                })(f);
-
-                // Read in the image file as a data URL.
-                reader.readAsDataURL(f);
-            }
-        }
-
-        document.getElementById('files').addEventListener('change', handleFileSelect, false);
-    </script>
     </div>
+    <script src="../static/scripts/jquery-3.2.1.min.js"></script>
+    <script src="../static/scripts/About.js"></script>
     </body>
 </html>
     {% endblock %}
